@@ -9,3 +9,10 @@
 * When users use the search bar, current weather should be replaced by the search result, if the city couldn't be found, an appropriate message to the user shall be displayed.
 * Users can change between Celsius and Fahrenheit temperatures to get more adequate results.
 * Handle loading and errors in the code appropriately. (handle error first, then loading, then data)
+
+## Additional Requirements
+
+* To avoid working on a real API and burning its daily limits, implement a mock server first (try to recreate original schema/data format), code the app, and when it'll be ready switch to the real Weather API (e.g. OpenWeather) for final testing if all works nicely together.
+* Implement more fields from the API, explore, discover what's available and make it as robust as it's possible. Use all the data! 🔥
+* Add API tests to your code, using e.g. jest.
+* Add e2e tests to your code, using e.g. cypress.
