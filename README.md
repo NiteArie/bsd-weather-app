@@ -1,5 +1,9 @@
 # bsd-weather-app (Weather App)
 
+## Design
+
+Adobe XD: [https://xd.adobe.com/view/13597958-8900-431d-9bd4-76742876eb9d-460a/](https://xd.adobe.com/view/13597958-8900-431d-9bd4-76742876eb9d-460a/)
+
 ## Requirement
 
 * Get your free API key from OpenWeather API, (or any similar weather API you can find). Study the documentation before starting implementation.
